@@ -1,3 +1,1 @@
-# ScraTCon
-
-[![Gitter](https://badges.gitter.im/ScraTCon/Lobby.svg)](https://gitter.im/ScraTCon/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub tag](https://img.shields.io/github/tag/Alynva/ScraTCon.svg)](https://github.com/Alynva/ScraTCon/releases) [![Gitter](https://img.shields.io/gitter/room/alynva/ScraTCon.js.svg)](https://gitter.im/ScraTCon)
